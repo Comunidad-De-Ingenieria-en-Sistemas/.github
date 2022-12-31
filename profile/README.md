@@ -3,7 +3,7 @@
 # ¡Bienvenidos a la Comunidad de Ingeniería en sistemas!
 ## Somos una Comunidad con el propósito de demostrar nuestro potencial, capacidades, aprender, desarrollar y crecer ante la industria.
 
-![img1](https://imgur.com/zxoYEcS.png)
+![img1](https://imgur.com/V316yPh.png)
 
 # ¿Cual es nustra visión?
 > Ser una comunidad estudiantil que colabore en la formación y capacitación del estudiante para potenciar los conocimientos adquiridos en clase y desarrollar habilidades que actualmente se encuentran en plano auge en el mundo laboral.
@@ -13,7 +13,7 @@
 
 ### ¿Que hacemos?
 
-* Eventos transmitidos en nuestras redes sociales en colaboración con el Insituto Técnológico de Veracruz y otras instituciones con las cuales hemos tenido el honor de coolaborar.
+* Eventos transmitidos en nuestras redes sociales en colaboración con el Insituto Técnológico de Veracruz y otras instituciones con las cuales hemos tenido el honor de colaborar.
 * Brindar conocimientos hacia estudiantes y personas con el hambre de aprender donde los mismos miembros de la comunidad imparten un taller o un curso sobre algúna tecnología, lenguaje de programación o herramienta que domine.
 * Convivir con personas del área, trabajar en las habilidades blandas de trabajo colaborativa y adquirir experiencias para despegar en la industria.
 
