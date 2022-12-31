@@ -3,7 +3,7 @@
 # ¡Bienvenidos a la Comunidad de Ingeniería en sistemas!
 ## Somos una Comunidad con el propósito de demostrar nuestro potencial, capacidades, aprender, desarrollar y crecer ante la industria.
 
-![img1](https://imgur.com/V316yPh.png)
+![img1](https://imgur.com/TRLv03q.png)
 
 # ¿Cual es nustra visión?
 > Ser una comunidad estudiantil que colabore en la formación y capacitación del estudiante para potenciar los conocimientos adquiridos en clase y desarrollar habilidades que actualmente se encuentran en plano auge en el mundo laboral.
