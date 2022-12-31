@@ -1,7 +1,7 @@
 <!--#Español-->
 
-# ¡Bienvenidos a la Comunidad de Ingeniería en sistemas!
-## Somos una Comunidad con el propósito de demostrar nuestro potencial, capacidades, aprender, desarrollar y crecer ante la industria.
+# ¡Bienvenidos a la Comunidad de Ingeniería en Sistemas!
+## Somos una Comunidad con el propósito de brindar oportunidades, ventajas capacidade que potencien los conocmientos y habilidades de la comunidad estudiantial por medio de talleres, cursos, relalizar invitaciones a personas expertas en la industría y recordar a cada estudiante, cada invididuo con las ganas de incursionar dentro del área de desarrollo de softwara o diseño de proyectos de la misma industría, que pueden lograr sus objetivos, pensar por si mismos, tomar sus decisiones, poder ganar experiencia, demostrarse no solo al mundo, si no a ellos mismos de su propio potencial.
 
 ![img1](https://imgur.com/TRLv03q.png)
 
